@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**DataScientistDave/DataScientistDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nisarg-dave/nisarg-dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=DataScientistDave&count_private=true&theme=moltack&showicons=true&text_color=574038&title_color=86092C&icon_color=86092C)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DataScientistDave&langs_count=5&theme=moltack&text_color=574038&title_color=86092C&icon_color=86092C)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nisarg-dave&count_private=true&theme=moltack&showicons=true&text_color=574038&title_color=86092C&icon_color=86092C)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nisarg-dave&langs_count=5&theme=moltack&text_color=574038&title_color=86092C&icon_color=86092C)]()
